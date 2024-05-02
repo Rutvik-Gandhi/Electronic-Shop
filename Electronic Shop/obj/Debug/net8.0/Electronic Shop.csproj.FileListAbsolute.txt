@@ -1,0 +1,15 @@
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\bin\Debug\net8.0\Electronic Shop.exe
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\bin\Debug\net8.0\Electronic Shop.deps.json
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\bin\Debug\net8.0\Electronic Shop.runtimeconfig.json
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\bin\Debug\net8.0\Electronic Shop.dll
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\bin\Debug\net8.0\Electronic Shop.pdb
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.AssemblyInfoInputs.cache
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.AssemblyInfo.cs
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.csproj.CoreCompileInputs.cache
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.sourcelink.json
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.dll
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\refint\Electronic Shop.dll
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.pdb
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\Electronic Shop.genruntimeconfig.cache
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Electronic Shop\Electronic Shop\obj\Debug\net8.0\ref\Electronic Shop.dll
