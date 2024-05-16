@@ -1,6 +1,6 @@
-# Inventory Management System
+# Electronic-Shop
 
-This C# console application simulates an inventory management system for a store selling laptops and smartphones. It allows users to buy items, restock inventory, update prices, and tracks transactions.
+This C# console application simulates an Electronic-Shop for a store selling laptops and smartphones. It allows users to buy items, restock inventory, update prices, and tracks transactions.
 
 ## Table of Contents
 
@@ -43,4 +43,4 @@ Contributions are welcome! Feel free to submit issues or pull requests for any i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under No License.
